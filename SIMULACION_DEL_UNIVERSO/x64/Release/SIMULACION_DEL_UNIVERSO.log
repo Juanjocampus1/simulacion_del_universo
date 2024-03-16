@@ -1,0 +1,40 @@
+﻿  Espacio.cpp
+  EspacioTiempo.cpp
+  FPSCounter.cpp
+E:\deberes\1º de DAM\PROGRAMACION\C++\SIMULACION_DEL_UNIVERSO\SIMULACION_DEL_UNIVERSO\Espacio.h(8,15): error C2011: 'Espacio': nueva definición del tipo 'class'
+  (compilando archivo de origen "Espacio.cpp")
+  E:\deberes\1º de DAM\PROGRAMACION\C++\SIMULACION_DEL_UNIVERSO\SIMULACION_DEL_UNIVERSO\Nodo.h(22,7):
+  vea la declaración de 'Espacio'
+  
+E:\deberes\1º de DAM\PROGRAMACION\C++\SIMULACION_DEL_UNIVERSO\SIMULACION_DEL_UNIVERSO\Espacio.cpp(3,15): error C2027: uso del tipo 'Espacio' sin definir
+  E:\deberes\1º de DAM\PROGRAMACION\C++\SIMULACION_DEL_UNIVERSO\SIMULACION_DEL_UNIVERSO\Nodo.h(22,7):
+  vea la declaración de 'Espacio'
+  
+E:\deberes\1º de DAM\PROGRAMACION\C++\SIMULACION_DEL_UNIVERSO\SIMULACION_DEL_UNIVERSO\Espacio.cpp(4,5): error C2065: 'nodos': identificador no declarado
+E:\deberes\1º de DAM\PROGRAMACION\C++\SIMULACION_DEL_UNIVERSO\SIMULACION_DEL_UNIVERSO\Espacio.cpp(7,15): error C2027: uso del tipo 'Espacio' sin definir
+  E:\deberes\1º de DAM\PROGRAMACION\C++\SIMULACION_DEL_UNIVERSO\SIMULACION_DEL_UNIVERSO\Nodo.h(22,7):
+  vea la declaración de 'Espacio'
+  
+E:\deberes\1º de DAM\PROGRAMACION\C++\SIMULACION_DEL_UNIVERSO\SIMULACION_DEL_UNIVERSO\Espacio.cpp(8,5): error C2065: 'conexiones': identificador no declarado
+E:\deberes\1º de DAM\PROGRAMACION\C++\SIMULACION_DEL_UNIVERSO\SIMULACION_DEL_UNIVERSO\EspacioTiempo.cpp(3,10): error C1083: No se puede abrir el archivo incluir: 'PuntoEspacioTiempo.h': No such file or directory
+  Main.cpp
+E:\deberes\1º de DAM\PROGRAMACION\C++\SIMULACION_DEL_UNIVERSO\SIMULACION_DEL_UNIVERSO\Main.cpp(67,46): error C2440: 'inicializando': no se puede realizar la conversión de 'EspacioTiempo::PuntoEspacioTiempo ***' a 'PuntoEspacioTiempo ***'
+  E:\deberes\1º de DAM\PROGRAMACION\C++\SIMULACION_DEL_UNIVERSO\SIMULACION_DEL_UNIVERSO\Main.cpp(67,46):
+  Los tipos señalados no están relacionados; la conversión requiere reinterpret_cast, conversión de estilo de C o conversión de estilo de función entre paréntesis
+  
+  particula.cpp
+E:\deberes\1º de DAM\PROGRAMACION\C++\SIMULACION_DEL_UNIVERSO\SIMULACION_DEL_UNIVERSO\particula.cpp(39,42): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+E:\deberes\1º de DAM\PROGRAMACION\C++\SIMULACION_DEL_UNIVERSO\SIMULACION_DEL_UNIVERSO\particula.cpp(39,35): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+E:\deberes\1º de DAM\PROGRAMACION\C++\SIMULACION_DEL_UNIVERSO\SIMULACION_DEL_UNIVERSO\particula.cpp(39,26): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+E:\deberes\1º de DAM\PROGRAMACION\C++\SIMULACION_DEL_UNIVERSO\SIMULACION_DEL_UNIVERSO\particula.cpp(40,42): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+E:\deberes\1º de DAM\PROGRAMACION\C++\SIMULACION_DEL_UNIVERSO\SIMULACION_DEL_UNIVERSO\particula.cpp(40,35): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+E:\deberes\1º de DAM\PROGRAMACION\C++\SIMULACION_DEL_UNIVERSO\SIMULACION_DEL_UNIVERSO\particula.cpp(40,26): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+E:\deberes\1º de DAM\PROGRAMACION\C++\SIMULACION_DEL_UNIVERSO\SIMULACION_DEL_UNIVERSO\particula.cpp(42,42): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+E:\deberes\1º de DAM\PROGRAMACION\C++\SIMULACION_DEL_UNIVERSO\SIMULACION_DEL_UNIVERSO\particula.cpp(42,35): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+E:\deberes\1º de DAM\PROGRAMACION\C++\SIMULACION_DEL_UNIVERSO\SIMULACION_DEL_UNIVERSO\particula.cpp(42,26): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+E:\deberes\1º de DAM\PROGRAMACION\C++\SIMULACION_DEL_UNIVERSO\SIMULACION_DEL_UNIVERSO\particula.cpp(43,42): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+E:\deberes\1º de DAM\PROGRAMACION\C++\SIMULACION_DEL_UNIVERSO\SIMULACION_DEL_UNIVERSO\particula.cpp(43,35): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+E:\deberes\1º de DAM\PROGRAMACION\C++\SIMULACION_DEL_UNIVERSO\SIMULACION_DEL_UNIVERSO\particula.cpp(43,26): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  particula.h
+  PuntoEspacioTiempo.cpp
+  Tensor.cpp

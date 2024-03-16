@@ -1,0 +1,2 @@
+﻿  Main.cpp
+E:\deberes\1º de DAM\PROGRAMACION\C++\SIMULACION_DEL_UNIVERSO\packages\glew.v140.1.12.0\build\native\include\GL\glew.h(85,1): fatal  error C1189: #error:  gl.h included before glew.h
